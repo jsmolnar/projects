@@ -1,2 +1,1 @@
 # projects
-Hello World
